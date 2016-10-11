@@ -1,5 +1,6 @@
 using System;
 
+/// solution to problem 14
 public class Euler14
 {
     public static void Main()
